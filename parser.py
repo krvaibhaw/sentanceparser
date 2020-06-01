@@ -1,4 +1,15 @@
 
+'''
+
+Sentence Parser
+
+Using context-free grammar formalism to parse English sentences to 
+determine their structure to help computer to better understand the 
+meaning of the sentence and can be utilized for various purpose such
+as sentimental analysis, reviews analysis, etc.
+
+
+'''
 
 # Importing Libraries
 
