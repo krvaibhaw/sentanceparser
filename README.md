@@ -1,25 +1,38 @@
-# Bitpass Password Generator
+# Sentance Parser
+
+![](https://img.shields.io/badge/Excitement-High-red)
+![](https://img.shields.io/badge/Maintained-Yes-blue)
+
+<br>
+
+![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
+![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
+
+![](https://img.shields.io/badge/Python-blue)
 
 
-## Installation
+## Executing the Program
 
-1. Make sure [Python 3+](https://www.python.org/downloads/) is installed.
+1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed.
 2. Install requirements  
 ```
     $ pip install requirements.txt
 ``` 
-4. Run the program:
+3. Run the program:
+
 ```
-    $ python bitpass.py 
+    $ python parser.py <sentance folder path>/<file.txt>
 ```
-5. Input the size of the required password
+	Example :
+
 ```
-    Enter total number of characters : 20
+    $ python parser.py sentances/1.txt
 ```
-6. A password of the required size will be displayed
+4. Output after parsing
 ```
-    n8%%<m%>[9mgI451%|cB
+    Parsed sentance along with the derivation tree
 ```
+	Sample output can be accessed in samples section.
 
 <br>
 Feel free to follow along the code provided along with mentioned comments for 
