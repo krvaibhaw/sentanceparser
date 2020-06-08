@@ -3,8 +3,6 @@
 ![](https://img.shields.io/badge/Excitement-High-red)
 ![](https://img.shields.io/badge/Maintained-Yes-blue)
 
-<br>
-
 ![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
 ![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
 
