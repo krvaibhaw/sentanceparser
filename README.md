@@ -16,6 +16,11 @@
     $ pip install requirements.txt
 ``` 
 3. Run the program:
+```
+    $ python parser.py
+```
+	And enter the sentence. <br>
+Or
 
 ```
     $ python parser.py <sentance folder path>/<file.txt>
