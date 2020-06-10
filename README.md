@@ -20,15 +20,14 @@
 ```
     $ python parser.py <sentance folder path>/<file.txt>
 ```
-	Example :
+Example :
 
 ```
     $ python parser.py sentances/1.txt
 ```
 4. Output after parsing
-```
-    Parsed sentance along with the derivation tree
-```
+
+	Parsed sentance along with the derivation tree
 	Sample output can be accessed in samples section.
 
 <br>
