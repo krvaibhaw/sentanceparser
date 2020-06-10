@@ -28,7 +28,7 @@ Example :
 4. Output after parsing
 
 	Parsed sentance along with the derivation tree
-	Sample output can be accessed in samples section.
+	<br>Sample output can be accessed in samples section.
 
 <br>
 Feel free to follow along the code provided along with mentioned comments for 
