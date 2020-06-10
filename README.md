@@ -23,7 +23,7 @@
 Example :
 
 ```
-    $ python parser.py sentances/1.txt
+    $ python parser.py sentences/1.txt
 ```
 4. Output after parsing
 
