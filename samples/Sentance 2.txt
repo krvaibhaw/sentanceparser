@@ -1,0 +1,16 @@
+Sentence: Holmes lit a pipe.
+            S
+   _________|___
+  |             VP
+  |      _______|___        
+  |     |           NP      
+  |     |        ___|___    
+  NP    |       |       NP  
+  |     |       |       |   
+  N     V      Det      N   
+  |     |       |       |
+holmes lit      a      pipe
+
+Noun Phrase Chunks
+holmes
+pipe
