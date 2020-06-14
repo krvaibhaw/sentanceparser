@@ -1,0 +1,58 @@
+Sentence: We arrived the day before Thursday.
+
+
+
+             S
+  ___________|_______
+ |                   VP
+ |      _____________|__________
+ |     |         NP             PP
+ |     |      ___|___      _____|_____      
+ NP    |     |       NP   |           NP    
+ |     |     |       |    |           |     
+ N     V    Det      N    P           N     
+ |     |     |       |    |           |
+ we arrived the     day before     thursday
+
+Noun Phrase Chunks
+we
+day
+thursday
+             S
+  ___________|_______
+ |                   VP
+ |      _____________|___
+ |     |                 NP
+ |     |          _______|__________
+ |     |         NP                 PP
+ |     |      ___|___          _____|_____
+ NP    |     |       NP       |           NP
+ |     |     |       |        |           |
+ N     V    Det      N        P           N
+ |     |     |       |        |           |
+ we arrived the     day     before     thursday
+
+Noun Phrase Chunks
+we
+day
+thursday
+             S
+  ___________|___
+ |               VP
+ |      _________|___
+ |     |             NP
+ |     |      _______|____
+ |     |     |            NP
+ |     |     |    ________|_____
+ |     |     |   |              PP
+ |     |     |   |         _____|_____
+ NP    |     |   NP       |           NP
+ |     |     |   |        |           |
+ N     V    Det  N        P           N
+ |     |     |   |        |           |
+ we arrived the day     before     thursday
+
+Noun Phrase Chunks
+we
+day
+thursday
