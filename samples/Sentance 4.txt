@@ -1,0 +1,27 @@
+Sentence: Holmes sat in the red armchair and he chuckled.
+
+
+
+
+                        S
+             ___________|_________________________
+            S                            |        |
+   _________|___                         |        |
+  |             VP                       |        |
+  |      _______|___                     |        |
+  |     |           PP                   |        |
+  |     |    _______|___                 |        |
+  |     |   |           NP               |        |
+  |     |   |    _______|___             |        |
+  |     |   |   |           NP           |        S
+  |     |   |   |        ___|_____       |     ___|_____
+  NP    |   |   |       AP        NP     |    NP        VP
+  |     |   |   |       |         |      |    |         |
+  N     V   P  Det     Adj        N     Conj  N         V
+  |     |   |   |       |         |      |    |         |
+holmes sat  in the     red     armchair and   he     chuckled
+
+Noun Phrase Chunks
+holmes
+armchair
+he
