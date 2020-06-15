@@ -1,0 +1,22 @@
+Sentence: My companion smiled an enigmatical smile. 
+
+
+
+
+                    S
+      ______________|_________
+     |                        VP
+     |               _________|_______
+     |              |                 NP
+     |              |      ___________|_______
+     NP             |     |                   NP       
+  ___|______        |     |            _______|____    
+ |          NP      |     |           AP           NP  
+ |          |       |     |           |            |
+Det         N       V    Det         Adj           N
+ |          |       |     |           |            |
+ my     companion smiled  an     enigmatical     smile
+
+Noun Phrase Chunks
+companion
+smile
