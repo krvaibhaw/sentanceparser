@@ -19,7 +19,7 @@
 ```
     $ python parser.py
 ```
-And enter the sentence. <br>
+And enter the sentence. <br><br>
 Or
 
 ```
