@@ -19,8 +19,7 @@
 ```
     $ python parser.py
 ```
-And enter the sentence. <br><br>
-Or
+And enter the sentence. Or,
 
 ```
     $ python parser.py <sentance folder path>/<file.txt>
