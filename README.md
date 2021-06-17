@@ -1,21 +1,37 @@
 # Sentance Parser
 
 ![](https://img.shields.io/badge/Excitement-High-red)
-![](https://img.shields.io/badge/Maintained-Yes-blue)
+![](https://img.shields.io/badge/Maintained-Yes-indigo)
 ![](https://img.shields.io/badge/Pull_Requests-Accepting-yellow)
+![](https://img.shields.io/github/forks/krvaibhaw/sentanceparser)
+![](https://img.shields.io/github/contributors/krvaibhaw/sentanceparser)
+![](https://img.shields.io/github/issues/krvaibhaw/sentanceparser)
+![](https://img.shields.io/github/stars/krvaibhaw/sentanceparser)
 
-![](https://img.shields.io/github/issues/krvaibhaw/blockchain)
+![](https://img.shields.io/badge/Contributions-Accepting-pink)
+![](https://img.shields.io/github/license/krvaibhaw/sentanceparser)
+[![](https://img.shields.io/badge/By_Me_A_Coffee-Paypal-skyblue)](https://www.paypal.com/paypalme/krvaibhaw/100)
+
 ![](https://img.shields.io/badge/Python-blue)
 
+Using context-free grammar formalism to parse English sentences to determine their structure to help computer to better understand the meaning of the sentence.
 
 ## Executing the Program
 
 1. Make sure [Python 3.6+](https://www.python.org/downloads/) is installed.
-2. Install requirements  
+2. Clone this repodotory : 
+```
+    $ git clone https://github.com/krvaibhaw/sentanceparser.git
+``` 
+3.  Change Directory :
+```
+    $ cd sentanceparser
+``` 
+4. Install requirements  
 ```
     $ pip install requirements.txt
 ``` 
-3. Run the program:
+5. Run the program:
 ```
     $ python parser.py
 ```
@@ -29,7 +45,7 @@ Example :
 ```
     $ python parser.py sentences/1.txt
 ```
-4. Output after parsing
+6. Output after parsing
 
 	Parsed sentance along with the derivation tree
 	<br>Sample output can be accessed in samples section.
